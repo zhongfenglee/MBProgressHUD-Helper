@@ -25,7 +25,7 @@
 ```
 
 ## 使用
-直接下载这两个文件，拖入到项目中
+直接下载这两个文件和MBProgressHUD.bundle，拖入到项目中
 ```
 #import "MBProgressHUD+Helper.h"
 ```
