@@ -35,7 +35,7 @@
 [MBProgressHUD showInView:self.view successTip:@"绑定成功" autoHid:YES];
 ```
 
-示例-错误提示，带block
+示例-带block的错误提示
 ```
 [MBProgressHUD showInView:self.view errorTip:@"网络连接失败，请稍后再试" autoHid:YES completionBlock:^{
       [self.navigationController popViewControllerAnimated:YES];
