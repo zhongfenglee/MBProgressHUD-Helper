@@ -1,6 +1,5 @@
 //
 //  MBProgressHUD+Helper.h
-//  新浪微盾
 //
 //  Created by zhongfeng1 on 2016/12/19.
 //  Copyright © 2016年 zhongfeng. All rights reserved.
